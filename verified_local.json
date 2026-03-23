@@ -1,9 +1,0 @@
-{
-  "tested_from": "99.199.82.139 (Surrey, ?, CA)",
-  "tested_at": "2026-03-23 01:59 UTC",
-  "routable_asns": ["AS43754", "AS62229", "AS48159", "AS12880", "AS16322", "AS42337", "AS49666", "AS24631", "AS56402", "AS31549", "AS44244", "AS197207", "AS58224", "AS39501", "AS57218", "AS25184", "AS51695", "AS47262"],
-  "routable_cidrs_loaded": 4601,
-  "working": [],
-  "unverified": [],
-  "tcp_open": []
-}
